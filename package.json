@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/creedcodespace.cevue-mf5fmxy1",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve tlbgp49oSADONa1U98H3 --open"
+  }
+}
